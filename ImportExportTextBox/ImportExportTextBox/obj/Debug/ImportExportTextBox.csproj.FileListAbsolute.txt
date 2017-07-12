@@ -1,0 +1,9 @@
+c:\users\tifalab\documents\visual studio 2017\Projects\ImportExportTextBox\ImportExportTextBox\bin\Debug\ImportExportTextBox.exe.config
+c:\users\tifalab\documents\visual studio 2017\Projects\ImportExportTextBox\ImportExportTextBox\bin\Debug\ImportExportTextBox.exe
+c:\users\tifalab\documents\visual studio 2017\Projects\ImportExportTextBox\ImportExportTextBox\bin\Debug\ImportExportTextBox.pdb
+c:\users\tifalab\documents\visual studio 2017\Projects\ImportExportTextBox\ImportExportTextBox\obj\Debug\ImportExportTextBox.csprojResolveAssemblyReference.cache
+c:\users\tifalab\documents\visual studio 2017\Projects\ImportExportTextBox\ImportExportTextBox\obj\Debug\ImportExportTextBox.Form1.resources
+c:\users\tifalab\documents\visual studio 2017\Projects\ImportExportTextBox\ImportExportTextBox\obj\Debug\ImportExportTextBox.Properties.Resources.resources
+c:\users\tifalab\documents\visual studio 2017\Projects\ImportExportTextBox\ImportExportTextBox\obj\Debug\ImportExportTextBox.csproj.GenerateResource.Cache
+c:\users\tifalab\documents\visual studio 2017\Projects\ImportExportTextBox\ImportExportTextBox\obj\Debug\ImportExportTextBox.exe
+c:\users\tifalab\documents\visual studio 2017\Projects\ImportExportTextBox\ImportExportTextBox\obj\Debug\ImportExportTextBox.pdb
